@@ -1,9 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1702122797 "c:/Users/smnkr/GitHub/Latex-Graphen/Gaus-Filter/main.tex" "main.pdf" "main" 1702122800 0
-  "C:/Users/smnkr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702120832 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1702243363 "c:/Users/smnkr/GitHub/Latex-Graphen/Pixel/main.tex" "main.pdf" "main" 1702243364 0
+  "C:/Users/smnkr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702241246 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/smnkr/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1698161603 24175226 9a95a399e7561d632b4466222af55261 ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
-  "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifluatex.sty" 1643997108 492 1994775aa15b0d1289725a0b1bbc2d4c ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty" 1643997108 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -69,10 +68,8 @@
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfrcs.code.tex" 1673775190 4385 510565c2f07998c8a0e14f0ec07ff23c ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfutil-common.tex" 1673775190 29239 22e8c7516012992a49873eff0d868fed ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfutil-latex.def" 1673775190 6950 8524a062d82b7afdc4a88a57cb377784 ""
-  "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/generic/pgfplots/libs/pgflibrarypgfplots.colorbrewer.code.tex" 1621075461 113285 eb14e797f6ee3aedfcdc10102a2382c0 ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex" 1621075461 22701 5fab7b8ebb90b053dc067d1bd37e43c2 ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex" 1621075461 3047 aa82404aec57311271f4991c44bd71dc ""
-  "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/generic/pgfplots/libs/tikzlibrarycolorbrewer.code.tex" 1621075461 23581 85aa585a62302d4a4f86d44987cde4f6 ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/generic/pgfplots/libs/tikzlibrarypgfplots.contourlua.code.tex" 1621075461 2931 5d52092da9e839accd7c9026062fe5c3 ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/generic/pgfplots/liststructure/pgfplotsarray.code.tex" 1621075461 23537 54be8160344d894595f6d145b1311658 ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.tex" 1621075461 4288 b8d6247899b21e3bb66bb11b24d30f2c ""
@@ -136,9 +133,10 @@
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/latex/tools/shellesc.sty" 1686255640 4121 54904b35568f3b7e15748a2fa1ae9cb4 ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "c:/Users/smnkr/GitHub/Latex-Graphen/Gaus-Filter/main.tex" 1702122743 1191 aef808e633f4c8b8d71ee41f843ba9dd ""
-  "main.aux" 1702122800 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
-  "main.tex" 1702122743 1191 aef808e633f4c8b8d71ee41f843ba9dd ""
+  "c:/Users/smnkr/GitHub/Latex-Graphen/Pixel/main.tex" 1702243363 450 506ec7610974863dc145a4c4ee35be80 ""
+  "finger.png" 1702239892 192630 501d83167dccda96467b9fe65ce06fdf ""
+  "main.aux" 1702243364 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.tex" 1702243363 450 506ec7610974863dc145a4c4ee35be80 ""
   (generated)
   "main.aux"
   "main.log"
