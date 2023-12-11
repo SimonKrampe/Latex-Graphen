@@ -1,4 +1,5 @@
-\documentclass[margin=5mm]{standalone}
+\documentclass[tikz,convert={outfile=output.svg}]{standalone}
+
 
 \usepackage{graphicx}
 \usepackage{tikz}
@@ -8,9 +9,15 @@
 \begin{document}
 
 \begin{tikzpicture}
-    \begin{axis}[enlargelimits=false, axis on top, axis equal image]
+    \begin{axis}[enlargelimits=false, axis on top, axis equal image, ylabel=Row, xlabel=Column, xticklabel pos=top]
         \addplot graphics [xmin=0,xmax=430,ymin=0,ymax=325] {finger.png};
-        \draw[black, thick] (axis cs: 320,50) rectangle ++(axis cs: 50,50);
+        \draw[black, thick] (axis cs: 320,50) rectangle ++(axis cs: 30,30);
+    \end{axis}
+\end{tikzpicture}
+
+\begin{tikzpicture}
+    \begin{axis}[enlargelimits=false, axis on top, axis equal image, grid style={line width=.1pt, draw=black!80}, major grid style={line width=.2pt, draw=black!100}, grid=both, minor tick num=10, ylabel=Row, xlabel=Column, xticklabel pos=top, minor xtick ={0,1,...,30}, minor ytick={0,1,...,30}]
+        \addplot graphics [xmin=0,xmax=30,ymin=0,ymax=30]{fingerZoom2.png};
     \end{axis}
 \end{tikzpicture}
 
