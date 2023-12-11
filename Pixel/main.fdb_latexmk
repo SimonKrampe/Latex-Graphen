@@ -1,10 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1702288813 "c:/Users/smnkr/GitHub/Latex-Graphen/Pixel/main.tex" "main.pdf" "main" 1702288814 0
+["pdflatex"] 1702290314 "c:/Users/smnkr/GitHub/Latex-Graphen/Pixel/main.tex" "main.pdf" "main" 1702290314 0
   "C:/Users/smnkr/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702241246 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/smnkr/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1698161603 24175226 9a95a399e7561d632b4466222af55261 ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
-  "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifluatex.sty" 1643997108 492 1994775aa15b0d1289725a0b1bbc2d4c ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty" 1643997108 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -135,9 +134,9 @@
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/latex/tools/shellesc.sty" 1686255640 4121 54904b35568f3b7e15748a2fa1ae9cb4 ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/smnkr/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "c:/Users/smnkr/GitHub/Latex-Graphen/Pixel/main.tex" 1702288813 961 f445bcc2021f03273ec236b2e3edc1a6 ""
-  "main.aux" 1702288814 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "main.tex" 1702288813 961 f445bcc2021f03273ec236b2e3edc1a6 ""
+  "c:/Users/smnkr/GitHub/Latex-Graphen/Pixel/main.tex" 1702290313 983 2d58ce0600f12793cfbc0ff68dd52bfd ""
+  "main.aux" 1702290314 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+  "main.tex" 1702290313 983 2d58ce0600f12793cfbc0ff68dd52bfd ""
   "swan.jpg" 1702288409 248889 7486554a0449b2b382fb719b2d13b4f5 ""
   "swanZoom.jpg" 1702288804 10965 1707926524382b938853895ad7ce0821 ""
   (generated)
