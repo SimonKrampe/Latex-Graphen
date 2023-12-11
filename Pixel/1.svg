@@ -4,9 +4,9 @@
 <svg
    version="1.1"
    id="svg132"
-   width="336.15866"
+   width="325.828"
    height="233.14532"
-   viewBox="0 0 336.15866 233.14532"
+   viewBox="0 0 325.828 233.14532"
    sodipodi:docname="main.pdf"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -19,7 +19,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath178">
       <path
-         d="M 0,0 H 194.27399 V 145.70549 H 0 Z"
+         d="M 0,0 H 194.27399 V -145.70549 H 0 Z"
          id="path176" />
     </clipPath>
   </defs>
@@ -40,7 +40,7 @@
      transform="matrix(1.3333333,0,0,-1.3333333,0,233.14533)">
     <g
        id="g142"
-       transform="translate(43.181,0.199)">
+       transform="translate(35.432,0.199)">
       <g
          id="g144">
         <g
@@ -64,10 +64,10 @@
              id="g162" />
           <g
              id="g164"
-             transform="translate(-43.181,-0.199)">
+             transform="translate(-35.432,-0.199)">
             <g
                id="g166"
-               transform="translate(43.181,0.199)">
+               transform="translate(35.432,145.903)">
               <g
                  id="g168">
                 <g
@@ -82,7 +82,8 @@
                         <g
                            id="g182">
                           <g
-                             id="g184">
+                             id="g184"
+                             transform="translate(0,-145.704)">
                             <g
                                id="g186">
                               <g
@@ -102,524 +103,495 @@
                                 </g>
                               </g>
                             </g>
+                            <g
+                               id="g194"
+                               transform="translate(0,145.704)" />
                           </g>
                         </g>
                       </g>
                       <g
-                         id="g194">
+                         id="g196">
                         <path
-                           d="m 35.6169,88.23276 v -4.85684 h 4.85684 v 4.85684 z"
+                           d="m 35.6169,-57.47272 v -4.85684 h 4.85684 v 4.85684 z"
                            style="fill:none;stroke:#000000;stroke-width:0.79701;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-                           id="path196" />
+                           id="path198" />
                       </g>
                     </g>
                   </g>
                   <g
-                     id="g198">
+                     id="g200">
                     <g
-                       id="g200">
+                       id="g202">
                       <path
-                         d="M 0,0 V 4.25224 M 32.379,0 V 4.25224 M 64.758,0 V 4.25224 M 97.137,0 V 4.25224 M 129.51599,0 V 4.25224 M 161.89499,0 V 4.25224 M 194.27399,0 V 4.25224 M 0,145.70549 v -4.25227 m 32.379,4.25227 v -4.25227 m 32.379,4.25227 v -4.25227 m 32.379,4.25227 v -4.25227 m 32.37899,4.25227 v -4.25227 m 32.379,4.25227 v -4.25227 m 32.379,4.25227 v -4.25227"
+                         d="M 0,0 V -4.25224 M 32.379,0 V -4.25224 M 64.758,0 V -4.25224 M 97.137,0 V -4.25224 M 129.51599,0 V -4.25224 M 161.89499,0 V -4.25224 M 194.27399,0 V -4.25224 M 0,-145.70549 v 4.25227 m 32.379,-4.25227 v 4.25227 m 32.379,-4.25227 v 4.25227 m 32.379,-4.25227 v 4.25227 m 32.37899,-4.25227 v 4.25227 m 32.379,-4.25227 v 4.25227 m 32.379,-4.25227 v 4.25227"
                          style="fill:none;stroke:#808080;stroke-width:0.19925;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-                         id="path202" />
+                         id="path204" />
                     </g>
                   </g>
                   <g
-                     id="g204">
+                     id="g206">
                     <g
-                       id="g206">
+                       id="g208">
                       <path
-                         d="M 0,16.1895 H 4.25224 M 0,48.5685 H 4.25224 M 0,80.9475 H 4.25224 M 0,113.32649 H 4.25224 M 0,145.70549 H 4.25224 M 194.27399,16.1895 h -4.25228 m 4.25228,32.379 h -4.25228 m 4.25228,32.379 h -4.25228 m 4.25228,32.37899 h -4.25228 m 4.25228,32.379 h -4.25228"
+                         d="M 0,0 H 4.25224 M 0,-32.379 H 4.25224 M 0,-64.758 H 4.25224 M 0,-97.137 H 4.25224 M 0,-129.51599 H 4.25224 M 194.27399,0 h -4.25228 m 4.25228,-32.379 h -4.25228 m 4.25228,-32.379 h -4.25228 m 4.25228,-32.379 h -4.25228 m 4.25228,-32.37899 h -4.25228"
                          style="fill:none;stroke:#808080;stroke-width:0.19925;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-                         id="path208" />
+                         id="path210" />
                     </g>
                   </g>
                   <path
-                     d="M 0,0 V 145.70549 H 194.27399 V 0 Z"
+                     d="M 0,0 V -145.70549 H 194.27399 V 0 Z"
                      style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-                     id="path210" />
+                     id="path212" />
                   <g
-                     id="g212">
+                     id="g214">
                     <g
-                       id="g214"
-                       transform="translate(-2.491,149.224)">
+                       id="g216"
+                       transform="translate(-2.49,3.52)">
                       <g
-                         id="g216">
+                         id="g218">
                         <g
-                           id="g218"
-                           transform="translate(-40.69,-149.423)">
+                           id="g220"
+                           transform="translate(-32.942,-149.423)">
                           <text
                              xml:space="preserve"
-                             transform="matrix(1,0,0,-1,40.69,149.423)"
+                             transform="matrix(1,0,0,-1,32.942,149.423)"
                              style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text222"><tspan
+                             id="text224"><tspan
                                x="0"
                                y="0"
-                               id="tspan220">0</tspan></text>
+                               id="tspan222">0</tspan></text>
                           <g
-                             id="g224"
-                             transform="translate(40.69,149.423)" />
+                             id="g226"
+                             transform="translate(32.942,149.423)" />
                         </g>
                       </g>
                       <g
-                         id="g226"
-                         transform="translate(2.491,-149.224)" />
+                         id="g228"
+                         transform="translate(2.49,-3.52)" />
                     </g>
                   </g>
                   <g
-                     id="g228">
+                     id="g230">
                     <g
-                       id="g230"
-                       transform="translate(24.907,149.224)">
+                       id="g232"
+                       transform="translate(24.907,3.52)">
                       <g
-                         id="g232">
+                         id="g234">
                         <g
-                           id="g234"
-                           transform="translate(-68.088,-149.423)">
+                           id="g236"
+                           transform="translate(-60.339,-149.423)">
                           <text
                              xml:space="preserve"
-                             transform="matrix(1,0,0,-1,68.088,149.423)"
+                             transform="matrix(1,0,0,-1,60.339,149.423)"
                              style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text238"><tspan
+                             id="text240"><tspan
                                x="0 4.9812999 9.9625998"
                                y="0"
                                sodipodi:role="line"
-                               id="tspan236">200</tspan></text>
+                               id="tspan238">200</tspan></text>
                           <g
-                             id="g240"
-                             transform="translate(68.088,149.423)" />
+                             id="g242"
+                             transform="translate(60.339,149.423)" />
                         </g>
                       </g>
                       <g
-                         id="g242"
-                         transform="translate(-24.907,-149.224)" />
+                         id="g244"
+                         transform="translate(-24.907,-3.52)" />
                     </g>
                   </g>
                   <g
-                     id="g244">
+                     id="g246">
                     <g
-                       id="g246"
-                       transform="translate(57.285,149.224)">
+                       id="g248"
+                       transform="translate(57.286,3.52)">
                       <g
-                         id="g248">
+                         id="g250">
                         <g
-                           id="g250"
-                           transform="translate(-100.466,-149.423)">
+                           id="g252"
+                           transform="translate(-92.718,-149.423)">
                           <text
                              xml:space="preserve"
-                             transform="matrix(1,0,0,-1,100.466,149.423)"
+                             transform="matrix(1,0,0,-1,92.718,149.423)"
                              style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text254"><tspan
+                             id="text256"><tspan
                                x="0 4.9812999 9.9625998"
                                y="0"
                                sodipodi:role="line"
-                               id="tspan252">400</tspan></text>
+                               id="tspan254">400</tspan></text>
                           <g
-                             id="g256"
-                             transform="translate(100.466,149.423)" />
+                             id="g258"
+                             transform="translate(92.718,149.423)" />
                         </g>
                       </g>
                       <g
-                         id="g258"
-                         transform="translate(-57.285,-149.224)" />
+                         id="g260"
+                         transform="translate(-57.286,-3.52)" />
                     </g>
                   </g>
                   <g
-                     id="g260">
+                     id="g262">
                     <g
-                       id="g262"
-                       transform="translate(89.664,149.224)">
+                       id="g264"
+                       transform="translate(89.664,3.52)">
                       <g
-                         id="g264">
+                         id="g266">
                         <g
-                           id="g266"
-                           transform="translate(-132.845,-149.423)">
+                           id="g268"
+                           transform="translate(-125.096,-149.423)">
                           <text
                              xml:space="preserve"
-                             transform="matrix(1,0,0,-1,132.845,149.423)"
+                             transform="matrix(1,0,0,-1,125.096,149.423)"
                              style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text270"><tspan
+                             id="text272"><tspan
                                x="0 4.9812999 9.9625998"
                                y="0"
                                sodipodi:role="line"
-                               id="tspan268">600</tspan></text>
+                               id="tspan270">600</tspan></text>
                           <g
-                             id="g272"
-                             transform="translate(132.845,149.423)" />
+                             id="g274"
+                             transform="translate(125.096,149.423)" />
                         </g>
                       </g>
                       <g
-                         id="g274"
-                         transform="translate(-89.664,-149.224)" />
+                         id="g276"
+                         transform="translate(-89.664,-3.52)" />
                     </g>
                   </g>
                   <g
-                     id="g276">
+                     id="g278">
                     <g
-                       id="g278"
-                       transform="translate(122.042,149.224)">
+                       id="g280"
+                       transform="translate(122.043,3.52)">
                       <g
-                         id="g280">
+                         id="g282">
                         <g
-                           id="g282"
-                           transform="translate(-165.223,-149.423)">
+                           id="g284"
+                           transform="translate(-157.475,-149.423)">
                           <text
                              xml:space="preserve"
-                             transform="matrix(1,0,0,-1,165.223,149.423)"
+                             transform="matrix(1,0,0,-1,157.475,149.423)"
                              style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text286"><tspan
+                             id="text288"><tspan
                                x="0 4.9812999 9.9625998"
                                y="0"
                                sodipodi:role="line"
-                               id="tspan284">800</tspan></text>
+                               id="tspan286">800</tspan></text>
                           <g
-                             id="g288"
-                             transform="translate(165.223,149.423)" />
+                             id="g290"
+                             transform="translate(157.475,149.423)" />
                         </g>
                       </g>
                       <g
-                         id="g290"
-                         transform="translate(-122.042,-149.224)" />
+                         id="g292"
+                         transform="translate(-122.043,-3.52)" />
                     </g>
                   </g>
                   <g
-                     id="g292">
+                     id="g294">
                     <g
-                       id="g294"
-                       transform="translate(150.547,151.161)">
+                       id="g296"
+                       transform="translate(150.547,5.457)">
                       <g
-                         id="g296">
+                         id="g298">
                         <g
-                           id="g298"
-                           transform="translate(-193.728,-151.36)">
+                           id="g300"
+                           transform="translate(-185.979,-151.36)">
+                          <text
+                             xml:space="preserve"
+                             transform="matrix(1,0,0,-1,185.979,151.36)"
+                             style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                             id="text304"><tspan
+                               x="0"
+                               y="0"
+                               id="tspan302">1</tspan></text>
+                          <text
+                             xml:space="preserve"
+                             transform="matrix(1,0,0,-1,190.96,151.36)"
+                             style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                             id="text308"><tspan
+                               x="0"
+                               y="0"
+                               id="tspan306">,</tspan></text>
                           <text
                              xml:space="preserve"
                              transform="matrix(1,0,0,-1,193.728,151.36)"
                              style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text302"><tspan
-                               x="0"
-                               y="0"
-                               id="tspan300">1</tspan></text>
-                          <text
-                             xml:space="preserve"
-                             transform="matrix(1,0,0,-1,198.709,151.36)"
-                             style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text306"><tspan
-                               x="0"
-                               y="0"
-                               id="tspan304">,</tspan></text>
-                          <text
-                             xml:space="preserve"
-                             transform="matrix(1,0,0,-1,201.476,151.36)"
-                             style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text310"><tspan
+                             id="text312"><tspan
                                x="0 4.9812999 9.9625998"
                                y="0"
                                sodipodi:role="line"
-                               id="tspan308">000</tspan></text>
+                               id="tspan310">000</tspan></text>
                           <g
-                             id="g312"
-                             transform="translate(193.728,151.36)" />
+                             id="g314"
+                             transform="translate(185.979,151.36)" />
                         </g>
                       </g>
                       <g
-                         id="g314"
-                         transform="translate(-150.547,-151.161)" />
+                         id="g316"
+                         transform="translate(-150.547,-5.457)" />
                     </g>
                   </g>
                   <g
-                     id="g316">
+                     id="g318">
                     <g
-                       id="g318"
-                       transform="translate(182.925,151.161)">
+                       id="g320"
+                       transform="translate(182.925,5.457)">
                       <g
-                         id="g320">
+                         id="g322">
                         <g
-                           id="g322"
-                           transform="translate(-226.106,-151.36)">
+                           id="g324"
+                           transform="translate(-218.357,-151.36)">
+                          <text
+                             xml:space="preserve"
+                             transform="matrix(1,0,0,-1,218.357,151.36)"
+                             style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                             id="text328"><tspan
+                               x="0"
+                               y="0"
+                               id="tspan326">1</tspan></text>
+                          <text
+                             xml:space="preserve"
+                             transform="matrix(1,0,0,-1,223.339,151.36)"
+                             style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                             id="text332"><tspan
+                               x="0"
+                               y="0"
+                               id="tspan330">,</tspan></text>
                           <text
                              xml:space="preserve"
                              transform="matrix(1,0,0,-1,226.106,151.36)"
                              style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text326"><tspan
-                               x="0"
-                               y="0"
-                               id="tspan324">1</tspan></text>
-                          <text
-                             xml:space="preserve"
-                             transform="matrix(1,0,0,-1,231.088,151.36)"
-                             style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMMI10;-inkscape-font-specification:CMMI10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text330"><tspan
-                               x="0"
-                               y="0"
-                               id="tspan328">,</tspan></text>
-                          <text
-                             xml:space="preserve"
-                             transform="matrix(1,0,0,-1,233.855,151.36)"
-                             style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text334"><tspan
+                             id="text336"><tspan
                                x="0 4.9812999 9.9625998"
                                y="0"
                                sodipodi:role="line"
-                               id="tspan332">200</tspan></text>
+                               id="tspan334">200</tspan></text>
                           <g
-                             id="g336"
-                             transform="translate(226.106,151.36)" />
+                             id="g338"
+                             transform="translate(218.357,151.36)" />
                         </g>
                       </g>
                       <g
-                         id="g338"
-                         transform="translate(-182.925,-151.161)" />
+                         id="g340"
+                         transform="translate(-182.925,-5.457)" />
                     </g>
                   </g>
                   <g
-                     id="g340">
+                     id="g342">
                     <g
-                       id="g342"
-                       transform="translate(-26.212,13.394)">
+                       id="g344"
+                       transform="translate(-8.501,-3.21)">
                       <g
-                         id="g344">
+                         id="g346">
                         <g
-                           id="g346"
-                           transform="translate(-16.969,-13.593)">
+                           id="g348"
+                           transform="translate(-26.931,-142.693)">
                           <text
                              xml:space="preserve"
-                             transform="matrix(1,0,0,-1,16.969,13.593)"
-                             style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMSY10;-inkscape-font-specification:CMSY10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text350"><tspan
+                             transform="matrix(1,0,0,-1,26.931,142.693)"
+                             style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                             id="text352"><tspan
                                x="0"
                                y="0"
-                               id="tspan348">−</tspan></text>
+                               id="tspan350">0</tspan></text>
+                          <g
+                             id="g354"
+                             transform="translate(26.931,142.693)" />
+                        </g>
+                      </g>
+                      <g
+                         id="g356"
+                         transform="translate(8.501,3.21)" />
+                    </g>
+                  </g>
+                  <g
+                     id="g358">
+                    <g
+                       id="g360"
+                       transform="translate(-18.463,-35.589)">
+                      <g
+                         id="g362">
+                        <g
+                           id="g364"
+                           transform="translate(-16.969,-110.314)">
                           <text
                              xml:space="preserve"
-                             transform="matrix(1,0,0,-1,24.717,13.593)"
+                             transform="matrix(1,0,0,-1,16.969,110.314)"
                              style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text354"><tspan
+                             id="text368"><tspan
                                x="0 4.9812999 9.9625998"
                                y="0"
                                sodipodi:role="line"
-                               id="tspan352">800</tspan></text>
+                               id="tspan366">200</tspan></text>
                           <g
-                             id="g356"
-                             transform="translate(16.969,13.593)" />
+                             id="g370"
+                             transform="translate(16.969,110.314)" />
                         </g>
                       </g>
                       <g
-                         id="g358"
-                         transform="translate(26.212,-13.394)" />
+                         id="g372"
+                         transform="translate(18.463,35.589)" />
                     </g>
                   </g>
                   <g
-                     id="g360">
+                     id="g374">
                     <g
-                       id="g362"
-                       transform="translate(-26.212,45.773)">
+                       id="g376"
+                       transform="translate(-18.463,-67.967)">
                       <g
-                         id="g364">
+                         id="g378">
                         <g
-                           id="g366"
-                           transform="translate(-16.969,-45.972)">
+                           id="g380"
+                           transform="translate(-16.969,-77.936)">
                           <text
                              xml:space="preserve"
-                             transform="matrix(1,0,0,-1,16.969,45.972)"
-                             style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMSY10;-inkscape-font-specification:CMSY10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text370"><tspan
-                               x="0"
-                               y="0"
-                               id="tspan368">−</tspan></text>
-                          <text
-                             xml:space="preserve"
-                             transform="matrix(1,0,0,-1,24.717,45.972)"
+                             transform="matrix(1,0,0,-1,16.969,77.936)"
                              style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text374"><tspan
+                             id="text384"><tspan
                                x="0 4.9812999 9.9625998"
                                y="0"
                                sodipodi:role="line"
-                               id="tspan372">600</tspan></text>
+                               id="tspan382">400</tspan></text>
                           <g
-                             id="g376"
-                             transform="translate(16.969,45.972)" />
+                             id="g386"
+                             transform="translate(16.969,77.936)" />
                         </g>
                       </g>
                       <g
-                         id="g378"
-                         transform="translate(26.212,-45.773)" />
+                         id="g388"
+                         transform="translate(18.463,67.967)" />
                     </g>
                   </g>
                   <g
-                     id="g380">
+                     id="g390">
                     <g
-                       id="g382"
-                       transform="translate(-26.212,78.152)">
+                       id="g392"
+                       transform="translate(-18.463,-100.346)">
                       <g
-                         id="g384">
+                         id="g394">
                         <g
-                           id="g386"
-                           transform="translate(-16.969,-78.351)">
+                           id="g396"
+                           transform="translate(-16.969,-45.557)">
                           <text
                              xml:space="preserve"
-                             transform="matrix(1,0,0,-1,16.969,78.351)"
-                             style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMSY10;-inkscape-font-specification:CMSY10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text390"><tspan
-                               x="0"
-                               y="0"
-                               id="tspan388">−</tspan></text>
-                          <text
-                             xml:space="preserve"
-                             transform="matrix(1,0,0,-1,24.717,78.351)"
+                             transform="matrix(1,0,0,-1,16.969,45.557)"
                              style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text394"><tspan
+                             id="text400"><tspan
                                x="0 4.9812999 9.9625998"
                                y="0"
                                sodipodi:role="line"
-                               id="tspan392">400</tspan></text>
+                               id="tspan398">600</tspan></text>
                           <g
-                             id="g396"
-                             transform="translate(16.969,78.351)" />
+                             id="g402"
+                             transform="translate(16.969,45.557)" />
                         </g>
                       </g>
                       <g
-                         id="g398"
-                         transform="translate(26.212,-78.152)" />
+                         id="g404"
+                         transform="translate(18.463,100.346)" />
                     </g>
                   </g>
                   <g
-                     id="g400">
+                     id="g406">
                     <g
-                       id="g402"
-                       transform="translate(-26.212,110.53)">
+                       id="g408"
+                       transform="translate(-18.463,-132.725)">
                       <g
-                         id="g404">
+                         id="g410">
                         <g
-                           id="g406"
-                           transform="translate(-16.969,-110.729)">
+                           id="g412"
+                           transform="translate(-16.969,-13.178)">
                           <text
                              xml:space="preserve"
-                             transform="matrix(1,0,0,-1,16.969,110.729)"
-                             style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMSY10;-inkscape-font-specification:CMSY10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text410"><tspan
-                               x="0"
-                               y="0"
-                               id="tspan408">−</tspan></text>
-                          <text
-                             xml:space="preserve"
-                             transform="matrix(1,0,0,-1,24.717,110.729)"
+                             transform="matrix(1,0,0,-1,16.969,13.178)"
                              style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text414"><tspan
+                             id="text416"><tspan
                                x="0 4.9812999 9.9625998"
                                y="0"
                                sodipodi:role="line"
-                               id="tspan412">200</tspan></text>
+                               id="tspan414">800</tspan></text>
                           <g
-                             id="g416"
-                             transform="translate(16.969,110.729)" />
+                             id="g418"
+                             transform="translate(16.969,13.178)" />
                         </g>
                       </g>
                       <g
-                         id="g418"
-                         transform="translate(26.212,-110.53)" />
+                         id="g420"
+                         transform="translate(18.463,132.725)" />
                     </g>
                   </g>
                   <g
-                     id="g420">
+                     id="g422">
                     <g
-                       id="g422"
-                       transform="translate(-8.501,142.494)">
+                       id="g424"
+                       transform="translate(79.978,18.718)">
                       <g
-                         id="g424">
+                         id="g426">
                         <g
-                           id="g426"
-                           transform="translate(-34.68,-142.693)">
+                           id="g428"
+                           transform="translate(-115.41,-164.621)">
                           <text
                              xml:space="preserve"
-                             transform="matrix(1,0,0,-1,34.68,142.693)"
+                             transform="matrix(1,0,0,-1,115.41,164.621)"
                              style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text430"><tspan
-                               x="0"
-                               y="0"
-                               id="tspan428">0</tspan></text>
-                          <g
-                             id="g432"
-                             transform="translate(34.68,142.693)" />
-                        </g>
-                      </g>
-                      <g
-                         id="g434"
-                         transform="translate(8.501,-142.494)" />
-                    </g>
-                  </g>
-                  <g
-                     id="g436">
-                    <g
-                       id="g438"
-                       transform="translate(79.978,164.421)">
-                      <g
-                         id="g440">
-                        <g
-                           id="g442"
-                           transform="translate(-123.159,-164.62)">
-                          <text
-                             xml:space="preserve"
-                             transform="matrix(1,0,0,-1,123.159,164.62)"
-                             style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text446"><tspan
+                             id="text432"><tspan
                                x="0 7.1949897 12.17629 14.9439 20.47912 28.780954"
                                y="0"
                                sodipodi:role="line"
-                               id="tspan444">Column</tspan></text>
+                               id="tspan430">Column</tspan></text>
                           <g
-                             id="g448"
-                             transform="translate(123.159,164.62)" />
+                             id="g434"
+                             transform="translate(115.41,164.621)" />
                         </g>
                       </g>
                       <g
-                         id="g450"
-                         transform="translate(-79.978,-164.421)" />
+                         id="g436"
+                         transform="translate(-79.978,-18.718)" />
                     </g>
                   </g>
                   <g
-                     id="g452">
+                     id="g438">
                     <g
-                       id="g454"
-                       transform="rotate(90,-48.144,15.091)">
+                       id="g440"
+                       transform="rotate(90,28.5825,-53.8865)">
                       <g
-                         id="g456">
+                         id="g442">
                         <g
-                           id="g458"
+                           id="g444"
                            transform="translate(-10.128,-63.434)">
                           <text
                              xml:space="preserve"
                              transform="matrix(1,0,0,-1,10.128,63.434)"
                              style="font-variant:normal;font-weight:normal;font-size:9.9626px;font-family:CMR10;-inkscape-font-specification:CMR10;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                             id="text462"><tspan
+                             id="text448"><tspan
                                x="0 7.3334699 12.035817"
                                y="0"
                                sodipodi:role="line"
-                               id="tspan460">Row</tspan></text>
+                               id="tspan446">Row</tspan></text>
                           <g
-                             id="g464"
+                             id="g450"
                              transform="translate(10.128,63.434)" />
                         </g>
                       </g>
                       <g
-                         id="g466"
-                         transform="translate(33.053,-63.235)" />
+                         id="g452"
+                         transform="translate(25.304,82.469)" />
                     </g>
                   </g>
                 </g>
               </g>
               <g
-                 id="g468"
-                 transform="translate(-43.181,-0.199)" />
+                 id="g454"
+                 transform="translate(-35.432,-145.903)" />
             </g>
             <g
-               id="g470"
-               transform="translate(43.181,0.199)" />
+               id="g456"
+               transform="translate(35.432,0.199)" />
           </g>
           <g
-             id="g472" />
+             id="g458" />
           <g
-             id="g474" />
+             id="g460" />
         </g>
       </g>
     </g>
